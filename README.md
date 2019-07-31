@@ -1,8 +1,8 @@
 
-Spencer Retcher
-[sretcher.github.io](https://github.com/sretcher/sretcher.github.io)
 ## Data Science Portfolio
 
+Spencer Retcher
+[sretcher.github.io](https://github.com/sretcher/sretcher.github.io)
 
 
 
