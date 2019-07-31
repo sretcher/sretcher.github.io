@@ -10,7 +10,8 @@ Spencer Retcher
 
 
 
-## SQL Projects
+## 
+SQL Projects
 
 ### Hawaii Climate Data Analysis
 
