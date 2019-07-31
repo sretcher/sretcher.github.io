@@ -14,4 +14,4 @@ Spencer Retcher
 
 ### Hawaii Climate Data Analysis
 
-This project analyzed temperature and precipitation trends of 34 diffrent [NOAA](https://www.ncdc.noaa.gov/cdo-web/) weather stations in Hawaii from 2000-2019. Emphasis was placed on praticing database normalization, data cleaning, stored procedures, prepared statements, transactions, joins, unions, and pivot tables. Get the code [here](https://github.com/sretcher/hawaii_weather)
+This project analyzed temperature and precipitation trends of 34 diffrent [NOAA](https://www.ncdc.noaa.gov/cdo-web/) weather stations in Hawaii from 2000-2019. Emphasis was placed on praticing database normalization, data cleaning, stored procedures, prepared statements, transactions, joins, unions, and pivot tables. Get the code [here.](https://github.com/sretcher/hawaii_weather)
