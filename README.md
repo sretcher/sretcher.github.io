@@ -18,6 +18,6 @@ This project analyzed temperature and precipitation trends of 34 diffrent [NOAA]
 
 ## Python Projects
 
-### Predicting Performance of Social Media Posts
+### Predicting Social Media Performance
 
-This project looked at the Facebook metrics dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php)
+This project examined the characteristics of 500 Facebook Posts from a renowned cosmetric brand in 2014 and attempts to predict the impact of a Facebook brand post with Multiple Linear Regression. This dataset is from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php).
