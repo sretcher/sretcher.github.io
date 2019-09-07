@@ -20,4 +20,5 @@ This project analyzed temperature and precipitation trends of 34 diffrent [NOAA]
 
 ### Predicting Social Media Performance
 
-This project examined the characteristics of 500 Facebook Posts from a renowned cosmetric brand in 2014 and attempts to predict the impact of a Facebook brand post with Multiple Linear Regression. This dataset is from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php).
+This project examined the characteristics of 500 Facebook Posts from a renowned cosmetric brand in 2014 and attempts to predict the impact of a Facebook brand post with Multiple Linear Regression. This dataset is from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php) and additional research on this dataset can be found in this paper (Moro et al., 2016) Moro, S., Rita, P., & Vala, B. (2016). Predicting social media performance metrics and evaluation of the impact on brand building: A data mining approach. Journal of Business Research, 69(9), 3341-3351.
+
