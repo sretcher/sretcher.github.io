@@ -18,4 +18,4 @@ This project analyzed temperature and precipitation trends of 34 diffrent [NOAA]
 
 ## Python Projects
 
-### Linear Regression With Facebook Metrics Data
+### Predicting Performance of Social Media Posts
