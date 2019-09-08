@@ -20,5 +20,5 @@ This project analyzed temperature and precipitation trends of 34 diffrent [NOAA]
 
 ### Predicting Social Media Performance
 
-This project examined the characteristics of 500 Facebook Posts from a renowned cosmetric brand in 2014 and attempts to predict the impact of a Facebook brand post with Multiple Linear Regression. This dataset is from the [UCI Machine Learning Repository.](https://archive.ics.uci.edu/ml/datasets.php) Get the code [here.](https://github.com/sretcher/hawaii_weather) 
+This project examined the characteristics of 500 Facebook Posts from a renowned cosmetric brand in 2014 and attempts to predict the impact of a Facebook brand post with Multiple Linear Regression. This dataset is from the [UCI Machine Learning Repository.](https://archive.ics.uci.edu/ml/datasets.php) Get the code [here.](https://github.com/sretcher/facebook_metrics/blob/master/Facebook%20Metrics.ipynb) 
 
