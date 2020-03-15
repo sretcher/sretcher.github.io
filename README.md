@@ -6,7 +6,10 @@ Spencer Retcher
 
 
 
+## R Projects
 
+### One Sample Means Z-Test
+In *Aquatic Biology* (Vol. 9. 2010), a study was conducted on the green sea turtles inhabiting the Sound Lagoon of Grand Cayman. The carapace length (cm) was recorded from a sample of 76 green sea turtles. This project uses a z-test to estimate the true mean carapace length of all green sea turtles in the lagoon. Since the implementation of z-tests does not exist in R, we will attempt to recreate the project ourselves.  
 
 
 
