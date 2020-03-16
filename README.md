@@ -9,7 +9,7 @@ Spencer Retcher
 ## R Projects
 
 ### One Sample Means Z-Test
-In *Aquatic Biology* (Vol. 9. 2010), a study was conducted on the green sea turtles inhabiting the Sound Lagoon of Grand Cayman. The carapace length (cm) was recorded from a sample of 76 green sea turtles. This project use z-tests to make inferences about the true mean carapace length of all turtles in Sound Lagoon. Get the code [here.](https://github.com/sretcher/hawaii_weather)
+In *Aquatic Biology* (Vol. 9. 2010), a study was conducted on the green sea turtles inhabiting the Sound Lagoon of Grand Cayman. The carapace length (cm) was recorded from a sample of 76 green sea turtles. This project use z-tests to make inferences about the true mean carapace length of all turtles in Sound Lagoon. Get the code [here.](https://github.com/sretcher/z-test-turtles)
 
 
 
