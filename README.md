@@ -14,7 +14,7 @@ In *Aquatic Biology* (Vol. 9. 2010), a study was conducted on the green sea turt
 ## JMP Projects
 
 ### One Sample Means T-Test
-A marine biologist believes that great white sharks off the coast of Bermuda growm much longer due to unsual feeding habits. Three adult great white sharks were captured and we will use a t-test to see if the true mean length of great white shark around Bermuda is more than 21 feet, which is the average length of all great white sharks. Get the code [here.](https://github.com/sretcher/t-test-sharks)
+A marine biologist believes that great white sharks off the coast of Bermuda grow much longer due to unusual feeding habits. Three adult great white sharks around Bermuda were captured to test this claim. We will use a t-test to see if the true mean length of great white shark around Bermuda is more than 21 feet, which is the average length of all great white sharks. Get the code [here.](https://github.com/sretcher/t-test-sharks)
 
 ## SQL Projects
 
