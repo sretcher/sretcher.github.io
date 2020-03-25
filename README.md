@@ -11,8 +11,8 @@ Spencer Retcher
 #### One Sample Means Z-Test
 In *Aquatic Biology* (Vol. 9. 2010), a study was conducted on the green sea turtles inhabiting the Sound Lagoon of Grand Cayman. The carapace length (cm) was recorded from a sample of 76 green sea turtles. This project use z-tests to make inferences about the true mean carapace length of all turtles in Sound Lagoon. Get the code [here.](https://github.com/sretcher/z-test-turtles)
 
-#### One Sample Chi-Squared Test
-A study was conducted to learn about the effects of irrelevant speech on memorization (*Acoustical Science and Technology* Vol. 35, 2014). 71 subjects performed a memorization task under two conditions-with irrelevant background speech or silence. For each subject, the RDER (error between the two conditions as a percentage) was recorded. We will be using a one sample chi-squared test to see if the true standard deviation of the RDER measurements differs from 60 percent. Get the code [here.](https://github.com/sretcher/z-test-turtles)
+#### One Sample Chi-Square Test
+A study was conducted to learn about the effects of irrelevant speech on memorization (*Acoustical Science and Technology* Vol. 35, 2014). 71 subjects performed a memorization task under two conditions-with irrelevant background speech or silence. For each subject, the RDER (error between the two conditions as a percentage) was recorded. We will be using a one sample chi-square test to see if the true standard deviation of the RDER measurements differs from 60 percent. Get the code [here.](https://github.com/sretcher/chi-squared-speech)
 
 
 
