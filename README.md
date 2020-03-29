@@ -6,10 +6,13 @@ Spencer Retcher
 
 
 
-## R Projects
+## R/JMP Projects
 
 #### One Sample Means Z-Test
 In *Aquatic Biology* (Vol. 9. 2010), a study was conducted on the green sea turtles inhabiting the Sound Lagoon of Grand Cayman. The carapace length (cm) was recorded from a sample of 76 green sea turtles. This project use z-tests to make inferences about the true mean carapace length of all turtles in Sound Lagoon. Get the code [here.](https://github.com/sretcher/z-test-turtles)
+
+#### One Sample Means T-Test
+A marine biologist believes that great white sharks off the coast of Bermuda grow much longer due to unusual feeding habits. Three adult great white sharks around Bermuda were captured to test this claim. We will use a t-test to see if the true mean length of great white shark around Bermuda is more than 21 feet, which is the average length of all great white sharks. Get the code [here.](https://github.com/sretcher/t-test-sharks)
 
 #### One Sample Chi-Square Test
 A study was conducted to learn about the effects of irrelevant speech on memorization (*Acoustical Science and Technology* Vol. 35, 2014). 71 subjects performed a memorization task under two conditions-with irrelevant background speech or silence. For each subject, the RDER (error between the two conditions as a percentage) was recorded. We will be using a one sample chi-square test to see if the true standard deviation of the RDER measurements differs from 60 percent. Get the code [here.](https://github.com/sretcher/chi-squared-speech)
@@ -19,10 +22,7 @@ In the *Academy of Management Journal*, a study set out to investigate if rude b
 
 Students in the rudeness conditions were berated by the facilitator about being irresponsible and unproffesional because of a late-arriving confederate. In the control group, no comment was made about the late-arriving confederate. We will use a two sample z-test to see if the true mean performace level of the rudeness group is less than the true mean performance level for the control group. Get the code [here.](https://github.com/sretcher/Comparing-Two-Population-Means)
 
-## JMP Projects
 
-#### One Sample Means T-Test
-A marine biologist believes that great white sharks off the coast of Bermuda grow much longer due to unusual feeding habits. Three adult great white sharks around Bermuda were captured to test this claim. We will use a t-test to see if the true mean length of great white shark around Bermuda is more than 21 feet, which is the average length of all great white sharks. Get the code [here.](https://github.com/sretcher/t-test-sharks)
 
 ## SQL Projects
 
