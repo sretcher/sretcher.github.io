@@ -17,10 +17,15 @@ A marine biologist believes that great white sharks off the coast of Bermuda gro
 #### One Sample Chi-Square Test
 A study was conducted to learn about the effects of irrelevant speech on memorization (*Acoustical Science and Technology* Vol. 35, 2014). 71 subjects performed a memorization task under two conditions-with irrelevant background speech or silence. For each subject, the RDER (error between the two conditions as a percentage) was recorded. We will be using a one sample chi-square test to see if the true standard deviation of the RDER measurements differs from 60 percent. Get the code [here.](https://github.com/sretcher/chi-squared-speech)
 
-#### Comparing Two Population Means: Independent Sampling.
+#### Comparing Two Population Means: Independent Sampling
 In the *Academy of Management Journal*, a study set out to investigate if rude behavior negatively affects work performance. Students in a management course were randomly seperated into two experimental conditions : rudeness (n=45) and control (n=53). Students were asked to write down as many uses for a brick as possible in five mintutes; this value would be a performance measure for each student. 
 
 Students in the rudeness conditions were berated by the facilitator about being irresponsible and unproffesional because of a late-arriving confederate. In the control group, no comment was made about the late-arriving confederate. We will use a two sample z-test to see if the true mean performace level of the rudeness group is less than the true mean performance level for the control group. Get the code [here.](https://github.com/sretcher/Comparing-Two-Population-Means)
+
+#### Comparing Two Population Means: Independent Sampling (Small Samples)  
+One experiment reported in *The American Statistician* wished to see whether women with eating disorders are more fearful of negative evaluation. One sample consisted of 11 students with bulimia and the other sample consisted of 14 students without an eating disorder. Each student completed a questionaire which resulted in a fear of negative evaluation (FNE) score. The higher the score, the greater the fear of negative evaluation. We will use a two sample t-test to see if the true mean FNE score for students with bulimia is higher than the true mean FNE score for people without an eating disorder. Get the code [here.](https://github.com/sretcher/Comparing-Two-Population-Means-Small)
+
+
 
 
 
