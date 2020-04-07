@@ -25,8 +25,8 @@ Students in the rudeness conditions were berated by the facilitator about being 
 #### Comparing Two Population Means: Independent Sampling (Small Samples)  
 One experiment reported in *The American Statistician* wished to see whether women with eating disorders are more fearful of negative evaluation. One sample consisted of 11 students with bulimia and the other sample consisted of 14 students without an eating disorder. Each student completed a questionaire which resulted in a fear of negative evaluation (FNE) score. The higher the score, the greater the fear of negative evaluation. We will use a two sample t-test to see if the true mean FNE score for students with bulimia is higher than the true mean FNE score for people without an eating disorder. Get the code [here.](https://github.com/sretcher/Comparing-Two-Population-Means-Small)
 
-
-
+#### Comparing Two Population Means: Paired Difference Experiments
+To combat red-light-running crashes, many states are installing red light cameras at dangerous intersections. The Virginia Department of Transportation conducted a study in Fairfax County, Virginia to see if photo-red enforcement programs are effective in reducing red-light-running crashes at intersections. The study provides crash data (measured as the number of crashes caused by red light running per intersection per year) before and after installing red light cameras at 13 randomly selected intersections. We will use a one sample t-test on the sample of differences to see if the true mean number of crashes at at intersections with installed cameras is less than the true mean number of crashes at intersections without cameras. [here.](https://github.com/sretcher/paired-t-test)
 
 
 ## SQL Projects
