@@ -18,7 +18,7 @@ A marine biologist believes that great white sharks off the coast of Bermuda gro
 A study was conducted to learn about the effects of irrelevant speech on memorization (*Acoustical Science and Technology* Vol. 35, 2014). 71 subjects performed a memorization task under two conditions-with irrelevant background speech or silence. For each subject, the RDER (error between the two conditions as a percentage) was recorded. We will be using a one sample chi-square test to see if the true standard deviation of the RDER measurements differs from 60 percent. Get the code [here.](https://github.com/sretcher/chi-squared-speech)
 
 #### One Sample Proportion Test 
-In a recent *Pew Internet and American Life Project Survey*, 755 randomly selected adults who use the Internet were asked if they have ever paid to access or download music. We will be using a one sample Z-test/Chi-Square Test of Independence to test whether the true porportion of all Internet using adults who have paid to access or download music exceeds .7. Get the code [here.](https://github.com/sretcher/chi-squared-speech)
+In a *Pew Internet and American Life Project Survey*, 755 randomly selected adults who use the Internet were asked if they have ever paid to access or download music. We will be using a one sample Z-test/Chi-Square Test of Independence to test whether the true porportion of all Internet using adults who have paid to access or download music exceeds .7. Get the code [here.](https://github.com/sretcher/chi-squared-speech)
 
 
 #### Comparing Two Population Means: Independent Sampling
