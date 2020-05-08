@@ -39,8 +39,11 @@ In *Survey Methodology (Dec. 2013)*, factors that influence survey reponse rates
 #### Comparing Two Population Variances: Independent Sampling
 In *Archives of Pediatrics and Adolescent Medicine (Dec. 2007)*, a study of honey as a children’s cough remedy was conducted in which 68 children were randomly assigned to receive either a cold medicine (DM group, n=33) or honey (H group, n=35). Cough improvement scores were recorded for the two groups. Researchers wanted to know if the variability in coughing improvement scores differed between the two groups. Get the code [here.](https://github.com/sretcher/Comparing-Two-Population-Variances)    
 
-#### One-Way Between-Groups ANOVA
+#### One-Way Between-Groups Analysis of Variance
 A clinical study was conducted to assess the effect of three formulations of the same drug on reducing cholesterol. The formulations were 20mg at once (1time), 10mg twice a day (2times), and 5mg four times a day (4times). In addition, two competing drugs were used as a control group (drugD and drugE). Fifty patients were randomly selected for the study and 10 patients were randomly assigned to each treatment. The purpose of the study was to find which of the formulations, if any, were the most effective at reducing cholesterol and how these formulations compare with the existing drugs. We will do this by conducting a One-Way ANOVA F-Test to compare treatment means in a Completely Randomized Design.  Get the code [here.](https://github.com/sretcher/One-Way-Between-Groups-ANOVA/blob/master/anova.pdf)   
+
+#### Factorial Analysis of Variance
+A vegetation height of greater than 30 centimeters on a highway right-of-way is genereally considered a safety hazard to drivers. In the *Landscape Ecology Journal*, a study was conducted to find the effects of mowing frequency and mowing height on vegetation height along highway right-of-ways. A sample of 36 plots of land along a highway right-of-way were selected for the study and each were given a random mowing frequency/height treatment. Mowing Frequency was set at three levels: once, twice, or three times per year and mowing height of equipment was also set at three levels: 5, 10, or 20 centimeters. At the end of the year, the vegetation height was recorded for each plot. We will be conducting 3x3 Factorial Anova for this study. Get the code [here.](https://github.com/sretcher/One-Way-Between-Groups-ANOVA/blob/master/anova.pdf)   
 
 ## SQL Projects
 
